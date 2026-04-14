@@ -60,8 +60,6 @@ Clear Recommendations: A written summary of findings and data‑driven next step
 📞 Let's Connect
 I am actively seeking freelance opportunities in Data Analytics & Business Intelligence.
 
-Workana Profile: [Link to your Workana profile]
-
 LinkedIn: www.linkedin.com/in/gabriel-zapata7
 
 GitHub: https://github.com/Gabo-prog007
